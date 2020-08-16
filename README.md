@@ -1,2 +1,2 @@
 # hello-world
-hello word practice repositry
+hello word practice repositry. practicing git
